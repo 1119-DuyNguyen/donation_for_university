@@ -11,23 +11,23 @@ Trong môi trường giáo dục, các hoạt động từ thiện không chỉ 
 Nhằm giải quyết các vấn đề trên, nhóm đề xuất xây dựng một hệ thống website quản lý chiến dịch từ thiện. Hệ thống này sẽ hỗ trợ tự động hóa quy trình, đảm bảo tính công khai, minh bạch và nâng cao hiệu quả quản lý. Qua đó, không chỉ cải thiện trải nghiệm của người tham gia mà còn góp phần nâng cao uy tín và sự chuyên nghiệp của tổ chức.
 ## 1.2	Nghiệp vụ
 ## 1.2.1	Quy trình phê duyệt và kiểm duyệt nội dung từ thiện
-Bước 1: Người thụ hưởng gửi yêu cầu nguyện vọng quyên góp, cung cấp các thông tin như mục tiêu quyên góp, hoàn cảnh khó khăn.
-Bước 2:  Phòng CTSV sẽ xác minh số lần đã nhận hỗ trợ, thông tin người thụ hưởng và tình trạng khó khăn để xác thực độ uy tín của người gửi nguyện vọng trước khi chấp nhận yêu cầu, kèm theo các điều kiện ràng buộc về pháp luật (nếu có).
-Bước 3: Bộ phận Công tác Sinh viên (CTSV) sau khi kiểm duyệt sẽ thực hiện chuyển đổi nguyện vọng trên thành chiến dịch.
-Bước 4: phòng CTSV xác nhận lại thông tin chiến dịch và đăng tải chiến dịch công khai.
+- Bước 1: Người thụ hưởng gửi yêu cầu nguyện vọng quyên góp, cung cấp các thông tin như mục tiêu quyên góp, hoàn cảnh khó khăn.
+- Bước 2:  Phòng CTSV sẽ xác minh số lần đã nhận hỗ trợ, thông tin người thụ hưởng và tình trạng khó khăn để xác thực độ uy tín của người gửi nguyện vọng trước khi chấp nhận yêu cầu, kèm theo các điều kiện ràng buộc về pháp luật (nếu có).
+- Bước 3: Bộ phận Công tác Sinh viên (CTSV) sau khi kiểm duyệt sẽ thực hiện chuyển đổi nguyện vọng trên thành chiến dịch.
+- Bước 4: phòng CTSV xác nhận lại thông tin chiến dịch và đăng tải chiến dịch công khai.
 ## 1.2.2	Quy trình quyên góp, báo cáo và minh bạch tài chính
-Bước 1: Người quyên góp tìm kiếm thông tin chiến dịch trên hệ thống.
-Bước 2: Sau khi xem xét thông tin chiến dịch quyên góp, nhà hảo tâm sẽ thực hiện quyên góp thông qua hệ thống thanh toán tích hợp như Momo, VNPay,...
-Bước 3: Phòng công tác sinh viên cập nhập tình hình quyên góp của chiến dịch thủ công hoặc tự động.
-Bước 4: Xử lý chiến dịch quyên góp khi đạt mục tiêu hoặc quá hạn.
-Bước 4.1: Khi chiến dịch vượt quá thời hạn mà không đạt mục tiêu, phòng công tác sinh viên sẽ gia hạn thêm thời gian cho tới khi đạt đủ số tiền yêu cầu hoặc là sẽ dùng số tiền đó cho 1 chiến dịch khác.
-Bước 4.2: Khi chiến dịch đã đạt mục tiêu thì ngưng nhận quyên góp, phần tiền được quyên góp sẽ được Cán bộ CTSV liên hệ tới người thụ hưởng và gửi cho họ.
-Bước 5: Cán bộ CTSV có thể xem thống kê số tiền quyên góp của các chiến dịch, họ cũng có thể xuất danh sách quyên góp tùy vào nhu cầu kê khai, sao kê.
-Bước 6: Phòng CTSV cập nhập tình hình chi tiêu với số tiền quyên góp của 1 chiến dịch để tạo niềm tin.
+- Bước 1: Người quyên góp tìm kiếm thông tin chiến dịch trên hệ thống.
+- Bước 2: Sau khi xem xét thông tin chiến dịch quyên góp, nhà hảo tâm sẽ thực hiện quyên góp thông qua hệ thống thanh toán tích hợp như Momo, VNPay,...
+- Bước 3: Phòng công tác sinh viên cập nhập tình hình quyên góp của chiến dịch thủ công hoặc tự động.
+- Bước 4: Xử lý chiến dịch quyên góp khi đạt mục tiêu hoặc quá hạn.
+- Bước 4.1: Khi chiến dịch vượt quá thời hạn mà không đạt mục tiêu, phòng công tác sinh viên sẽ gia hạn thêm thời gian cho tới khi đạt đủ số tiền yêu cầu hoặc là sẽ dùng số tiền đó cho 1 chiến dịch khác.
+- Bước 4.2: Khi chiến dịch đã đạt mục tiêu thì ngưng nhận quyên góp, phần tiền được quyên góp sẽ được Cán bộ CTSV liên hệ tới người thụ hưởng và gửi cho họ.
+- Bước 5: Cán bộ CTSV có thể xem thống kê số tiền quyên góp của các chiến dịch, họ cũng có thể xuất danh sách quyên góp tùy vào nhu cầu kê khai, sao kê.
+- Bước 6: Phòng CTSV cập nhập tình hình chi tiêu với số tiền quyên góp của 1 chiến dịch để tạo niềm tin.
 ## 1.2.3	Quy trình quản lý và theo dõi điểm rèn luyện cho sinh viên
-Bước 1: Sinh viên có thể theo dõi lịch sử tham gia các hoạt động từ thiện để điền vào phiếu điểm rèn luyện phù hợp.
-Bước 2: Phòng CTSV xuất các khoản đóng góp của các sinh viên.
-Bước 3: Phòng CTSV sẽ xem xét và cập nhật điểm rèn luyện dựa trên sự tham gia của sinh viên. 
+- Bước 1: Sinh viên có thể theo dõi lịch sử tham gia các hoạt động từ thiện để điền vào phiếu điểm rèn luyện phù hợp.
+- Bước 2: Phòng CTSV xuất các khoản đóng góp của các sinh viên.
+- Bước 3: Phòng CTSV sẽ xem xét và cập nhật điểm rèn luyện dựa trên sự tham gia của sinh viên. 
 ## 1.3	Đối tượng người dùng
 
 ### Bảng: Actor và Nhu cầu/Những mối quan tâm
@@ -57,7 +57,7 @@ Bước 3: Phòng CTSV sẽ xem xét và cập nhật điểm rèn luyện dựa
 ![image](https://github.com/user-attachments/assets/dcf4a7eb-b698-4ddb-9ce7-2d4d6ec2631e)
 
 # Kiến trúc chương trình và các công nghệ sử dụng
-![image](https://github.com/user-attachments/assets/3aa5fd67-7c65-4a7b-8bf6-88aa2409fad3)
+![image](https://github.com/user-attachments/assets/f1d1bb69-63cc-42c0-83b9-d3ac0f7d4f78)
 
 # Database
 ## Concept
